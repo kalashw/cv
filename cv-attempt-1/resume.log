@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  15 NOV 2022 17:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  15 NOV 2022 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -527,23 +527,23 @@ Overfull \hbox (194.11107pt too wide) in paragraph at lines 3--50
 (./sections/experience.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 6.
+(hyperref)                removing `\hfill' on input line 5.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 14.
+(hyperref)                removing `\hfill' on input line 13.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 22.
+(hyperref)                removing `\hfill' on input line 21.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 28.
+(hyperref)                removing `\hfill' on input line 27.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 39.
+(hyperref)                removing `\hfill' on input line 38.
 
 ) (./sections/education.tex
 
