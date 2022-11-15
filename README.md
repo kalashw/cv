@@ -4,4 +4,4 @@ CV created from a standard overused template from somewhere in internet, which I
 To run from tex to pdf:
 1. Clone this repo
 1. [Install LaTeX](https://www.latex-project.org/get/)
-1. Run in the root to generate pdf file `` texi2pdf cv.tex``
+1. Run in the root to generate pdf file `` texi2pdf cv-ua.tex``
