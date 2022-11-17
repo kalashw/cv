@@ -1,0 +1,57 @@
+\documentclass[letter,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{helvet} % Default font is the helvetica postscript font
+
+%====================
+% File:         resume.tex
+% Modifying author2:       https://github.com/mengisok 
+% Last Updated: Oct 29, 2022
+% Notes:        I edited again on the version of @gobborg      
+%====================
+
+%====================
+% File:         resume.tex
+% Modifying author1:       https://github.com/gobborg 
+% Last Updated: Dec 26, 2021
+% Notes:        I just made it prettier and better suited to
+%               my needs.
+%====================
+
+%====================
+% File:         resume.tex
+% Original author:       https://github.com/TimmyChan 
+%               https://www.linkedin.com/in/timmy-l-chan/
+% Last Updated: Nov 19, 2021
+% Notes:        All formatting is done in TLCresume.sty
+%               No need to touch that file. 
+%               All actual content is in the sections/ folder.
+%====================
+
+\usepackage{TLCresume}
+\setlength{\textwidth}{7in} % Text width of the document
+
+
+%====================
+% CONTACT INFORMATION
+%====================
+\author{Vladyslav Kalashnyk} 
+\def\phone{+1 (413) 650 25 48}
+\def\email{kalashnyk.vlad@gmail.com}
+\def\LinkedIn{https://www.linkedin.com/in/vladyslav-kalashnyk/}
+
+
+\begin{document}
+\import{sections/}{_header}
+
+\section{Skills}
+\import{sections/}{skills}
+
+\section{Work Experience}
+\import{sections/}{experience}
+
+\section{Education}
+\import{sections/}{education}
+
+\end{document}
